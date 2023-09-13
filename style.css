@@ -143,3 +143,9 @@ body {
 .content .text-content p {
     text-align: justify;
 }
+
+@media (max-width: 787px) {
+    .content .list span {
+        display: none;
+    }
+}
